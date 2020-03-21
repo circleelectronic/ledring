@@ -1,4 +1,3 @@
-//gecikme var led yansa bile saymıyo
 int leds[] = {14, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 0, A5, A4, A3, A2, A1, A0, 2};
 int buton = A6;
 int butonstate;
